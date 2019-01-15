@@ -49,7 +49,7 @@
 - http://eloquentjavascript.net/04_data.html#h_HjL/otjEJn
 #### Classes/Objects - Tuesday
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
-- https://javascript.info/object`
+- https://javascript.info/object
 - https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch3.md
 - http://eloquentjavascript.net/04_data.html#h_cqg63Sxe3o
 #### Scope/Let - Tuesday
