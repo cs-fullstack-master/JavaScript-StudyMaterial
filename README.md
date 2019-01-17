@@ -69,7 +69,12 @@
 - https://javascript.info/keys-values-entries
 - https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch5.md#maps
 - http://eloquentjavascript.net/06_object.html#h_gAcc11EHzV
-#### Try/Catch - Thursday
+### String Formatting - Thursday
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Text_formatting
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+- https://stackoverflow.com/questions/610406/javascript-equivalent-to-printf-string-format
+- https://stackoverflow.com/questions/42406146/javascript-s-or-d-represents-string
+#### Try/Catch - (skipped)
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch
 - https://javascript.info/try-catch
 - https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch3.md#trycatch
