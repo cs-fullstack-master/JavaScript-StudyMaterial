@@ -64,18 +64,18 @@
 - http://bit.ly/CCswitch3
 - http://bit.ly/CCswitch4
 #### Dictionary/Map:
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Keyed_collections
-- https://javascript.info/map-set-weakmap-weakset
-- https://javascript.info/keys-values-entries
-- https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch5.md#maps
-- http://eloquentjavascript.net/06_object.html#h_gAcc11EHzV
+- http://bit.ly/CCdictionary1
+- http://bit.ly/CCdictionary2
+- http://bit.ly/CCdictionary3
+- http://bit.ly/CCdictionary4
+- http://bit.ly/CCdictionary5
 ### String Formatting:
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Text_formatting
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
-- https://stackoverflow.com/questions/610406/javascript-equivalent-to-printf-string-format
-- https://stackoverflow.com/questions/42406146/javascript-s-or-d-represents-string
+- http://bit.ly/CCstringformat1
+- http://bit.ly/CCstringformat2
+- http://bit.ly/CCstringformat3
+- http://bit.ly/CCstringformat4
 #### Try/Catch - (skipped):
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch
-- https://javascript.info/try-catch
-- https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch3.md#trycatch
-- http://eloquentjavascript.net/08_error.html#h_zT3755/aOp
+- http://bit.ly/CCtry1
+- http://bit.ly/CCtry2
+- http://bit.ly/CCtry3
+- http://bit.ly/CCtry4
