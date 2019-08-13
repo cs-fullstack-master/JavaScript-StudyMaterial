@@ -3,66 +3,66 @@
 ## Week 1
 
 #### Statements, Expressions, and Execution:
-- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#statements
-- https://javascript.info/hello-world
+- http://bit.ly/CCstatement1
+- http://bit.ly/CCstatement2
 
 #### variables:
-- https://javascript.info/variables
-- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#variables
+- http://bit.ly/CCvar1
+- http://bit.ly/CCvar2
 
 #### data types:
-- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#values--types
-- https://javascript.info/types
+- http://bit.ly/CCtype1
+- http://bit.ly/CCtype2
 
 #### conversion:
-- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#converting-between-types
-- https://javascript.info/type-conversions
+- http://bit.ly/CCconversion1
+- http://bit.ly/CCconversion2
 
 #### input/output (you can ignore confirm):
-- https://javascript.info/alert-prompt-confirm
-- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#input
+- http://bit.ly/CCinputoutput1
+- http://bit.ly/CCinputoutput2
 
 #### if/else statements (conditional):
-- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#conditionals
-- https://javascript.info/comparison
-- https://javascript.info/ifelse
-- https://javascript.info/logical-operators
+- http://bit.ly/CCifstatement1
+- http://bit.ly/CCifstatement2
+- http://bit.ly/CCifstatement3
+- http://bit.ly/CCifstatement4
 
 #### For and While Loops:
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
-- https://javascript.info/while-for
-- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#loops
-- http://eloquentjavascript.net/02_program_structure.html#h_FaGGgUI+MM
+- http://bit.ly/CCloops1
+- http://bit.ly/CCloops2
+- http://bit.ly/CCloops3
+- http://bit.ly/CCloops4
 
 #### functions:
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
-- https://javascript.info/function-basics
-- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#functions
-- https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch3.md
-- http://eloquentjavascript.net/03_functions.html
+- http://bit.ly/CCfunction1
+- http://bit.ly/CCfunction2
+- http://bit.ly/CCfunction3
+- http://bit.ly/CCfunction4
+- http://bit.ly/CCfunction5
 
 ## Week 2
 #### Arrays:
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Indexed_collections
-- https://javascript.info/array
-- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md#arrays
-- http://eloquentjavascript.net/04_data.html#h_HjL/otjEJn
+- http://bit.ly/CCarray1
+- http://bit.ly/CCarray2
+- http://bit.ly/CCarray3
+- http://bit.ly/CCarray4
 #### Classes/Objects:
-- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
-- https://javascript.info/object
-- https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch3.md
-- http://eloquentjavascript.net/04_data.html#h_cqg63Sxe3o
+- http://bit.ly/CCclasses1
+- http://bit.ly/CCclasses2
+- http://bit.ly/CCclasses3
+- http://bit.ly/CCclasses4
 #### Scope/Let:
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
-- https://javascript.info/var
-- https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch3.md
-- https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch3.md#let 
-- http://eloquentjavascript.net/03_functions.html#h_XqQR5FlX+8
+- http://bit.ly/CCscope1
+- http://bit.ly/CCscope2
+- http://bit.ly/CCscope3
+- http://bit.ly/CCscope4
+- http://bit.ly/2YJcByI
 #### Switch Case:
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch
-- https://javascript.info/switch
-- https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md#conditionals
-- http://eloquentjavascript.net/02_program_structure.html#h_jMKsa0SXdL
+- http://bit.ly/CCswitch1
+- http://bit.ly/CCswitch2
+- http://bit.ly/CCswitch3
+- http://bit.ly/CCswitch4
 #### Dictionary/Map:
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Keyed_collections
 - https://javascript.info/map-set-weakmap-weakset
@@ -78,4 +78,4 @@
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch
 - https://javascript.info/try-catch
 - https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch3.md#trycatch
-- http://eloquentjavascript.net/08_error.html#h_zT3755/aOp`
+- http://eloquentjavascript.net/08_error.html#h_zT3755/aOp
